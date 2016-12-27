@@ -6,3 +6,4 @@
 *.txt
 *.cls
 *.fls
+.DS_Store
