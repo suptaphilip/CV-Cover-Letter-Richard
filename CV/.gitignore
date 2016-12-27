@@ -7,3 +7,6 @@
 *.cls
 *.fls
 *.DS_Store
+*.project
+*.texlipse
+
