@@ -10,6 +10,11 @@
 *.fot
 *.cb
 *.cb2
+*.fdb_latexmk
+*.gz
+*.txt
+*.cls
+
 
 ## Intermediate documents:
 *.dvi
